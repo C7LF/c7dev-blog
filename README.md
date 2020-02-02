@@ -3,11 +3,16 @@
 Created using gatsby static site generator and netifly.
 
 ### Run the app locally
-
-    ```shell
-    cd c7dev-blog/
-    gatsby develop
-    ```
+    
+Clone the repo:
+    `git clone https://github.com/C7LF/c7dev-blog.git`
+    `cd c7dev-blog/`
+    
+Install dependencies:
+    `npm install` or `yarn install`
+    
+Run gatsby starter script:
+    gatsby develop`
 
     Your site is now running at `http://localhost:8000`!
     
