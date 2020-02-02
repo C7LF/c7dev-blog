@@ -12,12 +12,12 @@ Install dependencies:
     `npm install` or `yarn install`
     
 Run gatsby starter script:
-    gatsby develop`
+    `gatsby develop`
 
     Your site is now running at `http://localhost:8000`!
     
     
-**Create your own Gatsby blog.**
+**Create your own Gatsby blog:**
 
     Use the Gatsby CLI to create a new site, specifying the blog starter.
 
