@@ -40,7 +40,7 @@ const Layout = ({ location, title, children }) => {
           style={{
             boxShadow: `none`,
             textDecoration: `none`,
-            color: `inherit`,
+            color: `#404D6C`,
           }}
           to={`/`}
         >
@@ -64,6 +64,7 @@ const Layout = ({ location, title, children }) => {
         © {new Date().getFullYear()}, Built with
         {` `}
         <a href="https://www.gatsbyjs.org">Gatsby</a>
+        {` `} | {` `} <a href="https://c7-dev.co.uk">C7 Dev</a>
       </footer>
     </div>
   )
